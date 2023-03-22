@@ -11,6 +11,7 @@ body{
 }
 header{
     margin-top: 80px;
+    
 }
 
 .push {
@@ -39,8 +40,8 @@ header{
     font-weight: 800;
     font-size: 64px;
     font-family: Nunito Sans ;
-    line height: 81.22px;
-    letter-spacing: 0.02em;
+    /* line height: 81.22px;
+    letter-spacing: 0.02em; */
     }
 
 .soup {
@@ -108,4 +109,90 @@ header{
     left: 702.81px;
     top: 567.87px;
     border-radius: 19.1456px;
+}
+
+/* .plum {
+    position: absolute;
+    width: 1300px;
+    height: 977px;
+    left: 16px;
+    top: 16px;
+    background: fixed;
+} */
+
+.hero-section{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+
+.fin {
+    margin-top: 200px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    color: #515151;
+}
+
+.hulu {
+   /* border: 1px solid green; */
+   margin-left: 400px;
+    position: absolute;
+   width: 597px;
+   height: 98px;
+   left: 992;
+   top: 920px;
+}
+
+.What {
+    margin-top: 90px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 147.4%;
+    color: #565656;
+    text-align: center;
+}
+
+.business {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.core {
+    box-sizing: border-box;
+    /* border: 1px solid ; */
+    width: 320px;
+}
+.img {
+    width: 72px;
+    height: 72px;
+    /* align-items: center; */
+    margin-left: 120px;
+}
+
+.heading {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.02;
+    color: #2b3377;
+}
+
+.text {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.02;
+    color: #585858;
 }
