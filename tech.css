@@ -171,7 +171,9 @@ header{
 .img {
     width: 72px;
     height: 72px;
-    /* align-items: center; */
+    /* display: flex;
+    justify-content: space-evenly;
+    align-items: center; */
     margin-left: 120px;
 }
 
@@ -195,4 +197,38 @@ header{
     font-size: 20px;
     letter-spacing: 0.02;
     color: #585858;
+}
+
+.big-img {
+    width: 432px;
+    height: 678px;
+    margin-top: 80px;
+}
+.manage {
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 147.4%;
+    color: #4a4a4a;
+}
+
+.text-planning {
+    margin-top: 40px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    color: #575757;
+}
+
+.every {
+    position: absolute;
+    left: 955px;
+    top: 1900px;
+}
+
+.set {
+   margin-top: 200px;
 }
