@@ -230,5 +230,34 @@ header{
 }
 
 .set {
-   margin-top: 200px;
+   margin-top: 350px;
 }
+
+.young-man {
+    width: 181px;
+    height: 258px;
+    position: absolute;
+    left: 769px;
+    top: 2500px;
+
+}
+.lap {
+    background-color: #fafaff;
+    border: 1px solid white;
+    padding-bottom: 150px;
+}
+
+.inter-grate {
+    margin-top: 150px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71px;
+    color: #565656;
+    text-align: center;
+}
+
+.grp-img {
+    
+} 
